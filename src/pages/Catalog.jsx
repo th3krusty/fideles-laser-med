@@ -18,7 +18,7 @@ export function Catalog({ onOpenProduct }) {
   }}
 >
         <div className="container hero-inner">
-          <p className="eyebrow">Identifique e afie seus instrumentos cirúrgicos!</p>
+          <p className="eyebrow">Identifique e afie seus instrumentos cirúrgicos, com Cleiton Fideles</p>
           <h1>
             SEUS INSTRUMENTOS <span className="hero-scan">gravados a laser</span> 
           </h1>
